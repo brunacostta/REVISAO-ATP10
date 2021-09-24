@@ -2,9 +2,7 @@ package atividadeRevisao;
 
 import java.util.Scanner;
 
-import javax.lang.model.util.ElementFilter;
-
-public class atp10 {
+public class atp10_atv1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -19,8 +17,6 @@ public class atp10 {
             System.out.println("Idade maior que 25 anos.");
         }else{
             System.out.println("Idade igual a 25 anos.");
-        }
-        
+        } 
     }
-
 }
