@@ -13,7 +13,7 @@ public class atp10_atv2_revisao {
 
         while (salario <= 0) {
             System.out.println("Não há salário a ser exibido!");
-            System.out.print("Digite sua salário novamente: R$ ");
+            System.out.print("Digite seu salário novamente: R$ ");
             salario = Double.parseDouble(sc.nextLine());            
         }
 
